@@ -28,4 +28,18 @@ Use this tool to update all tasks related to the E8
   * Dockerized Project for collaboration (chat/ note-taking/ picture-sharing/ task-management/ other)
   * Docker for development environment (VS Code via Browser)
 
+## TASK 5 - Choose Tech to Learn
 
+  * Javascript and NodeJS
+  * Android Native
+  * Python for Big Data/ Data Analysis
+  * Kubernetes/ Docker Swarm
+  * AWS CLI
+ 
+## TASK 6 - Additional: Choose Home Project to Start
+
+  * Home Linux Server
+  * Home Media Server (using Subsonic Music Server/ Plex Media Server/ Lychee Photo Management System)
+  * Smart Home Appliance Installation
+  * Home Cloud Server (using NextCloud)
+ 
